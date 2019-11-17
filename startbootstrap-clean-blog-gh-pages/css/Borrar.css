@@ -55,7 +55,7 @@ blockquote {
   display: block;
   margin: 0;
   padding: 10px;
-  text-align:end;
+  text-align: center;
   border-bottom-right-radius: 5px;
   border-bottom-left-radius: 5px;
 }
